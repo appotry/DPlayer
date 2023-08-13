@@ -59,7 +59,7 @@ export default (options) => {
         },
         {
             key: 'about-author',
-            link: 'https://diygod.me',
+            link: 'https://diygod.cc',
         },
         {
             text: `DPlayer v${DPLAYER_VERSION}`,
